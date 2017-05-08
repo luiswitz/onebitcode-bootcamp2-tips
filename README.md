@@ -16,6 +16,8 @@ Repository to share tips and tricks between [One Bit Code](http://onebitcode.com
 
 - [Pencil](http://pencil.evolus.vn/) - Pencil is built for the purpose of providing a free and open-source GUI prototyping tool that people can easily install and use to create mockups in popular desktop platforms.
 
+- [Gravity Designer](https://designer.io/) - Gravity Designer is a software to manage vectorized images, like icons, prototype ideas, and others.
+
 ## Websites and Articles
 
 ## Books
