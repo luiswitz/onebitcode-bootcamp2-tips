@@ -21,5 +21,6 @@ Repository to share tips and tricks between [One Bit Code](http://onebitcode.com
 ## Websites and Articles
 
 - [hackr.io](https://hackr.io/) - Courses & Tutorials Online
+- [Loom](https://www.useloom.com/) - Save time everyday with quick videos for free
 
 ## Books
